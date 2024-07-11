@@ -4,16 +4,11 @@ To view detailed notes on each learning tool I explored, check out the learning_
 
 
 Title 1: CPU Visual Simulator
-
-•	URL: https://cpuvisualsimulator.github.io/
-
-•	Summary of Content: This tool visually breaks down how a CPU handles instructions, making complex operations easier to understand.
-
-•	Key Takeaways: It walks through assembly code step by step, which really helped me grasp CPU architecture and programming basics.
-
-•	Personal Insights or Reflections: The visual approach was really helpful; it made understanding how CPUs work much easier for me.
-
-•	Feedback and Reflection: Adding more tutorials could make it even more beginner-friendly.
+URL: https://cpuvisualsimulator.github.io/
+Summary of Content: This tool visually breaks down how a CPU handles instructions, making complex operations easier to understand.
+Key Takeaways: It walks through assembly code step by step, which really helped me grasp CPU architecture and programming basics.
+Personal Insights or Reflections: The visual approach was really helpful; it made understanding how CPUs work much easier for me.
+Feedback and Reflection: Adding more tutorials could make it even more beginner-friendly.
 
 
 Title 2: Godbolt Compiler Explorer
