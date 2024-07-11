@@ -2,9 +2,8 @@
 
 To view detailed notes on each learning tool I explored, check out the learning_notes.md file in this repository. For each tool I explored, here’s how I’ve structured my notes, along with insights from other resources:
 
-CPU Visual Simulator
 
-•	Link Title: CPU Visual Simulator
+•	Title 1: CPU Visual Simulator
 
 •	URL: https://cpuvisualsimulator.github.io/
 
@@ -16,9 +15,8 @@ CPU Visual Simulator
 
 •	Feedback and Reflection: Adding more tutorials could make it even more beginner-friendly.
 
-Godbolt Compiler Explorer
 
-•	Link Title: Godbolt Compiler Explorer
+•	Title 2: Godbolt Compiler Explorer
 
 •	URL: https://godbolt.org/
 
