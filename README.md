@@ -3,9 +3,9 @@
 To view detailed notes on each learning tool I explored, check out the learning_notes.md file in this repository. For each tool I explored, here’s how I’ve structured my notes, along with insights from other resources:
 
 
-Title 1: CPU Visual Simulator
+**Title** 1: CPU Visual Simulator
 
-URL: https://cpuvisualsimulator.github.io/
+**URL**: https://cpuvisualsimulator.github.io/
 
 Summary of Content: This tool visually breaks down how a CPU handles instructions, making complex operations easier to understand.
 
