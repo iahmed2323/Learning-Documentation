@@ -1,9 +1,10 @@
-## Part 1: Research Paper Exploration
+##Part 1: Research Paper Exploration
 
 Summary
 
 The research paper "A Survey of Computer Architecture Simulation Techniques and Tools" gives an overview of the methods and tools used in computer architecture simulation. The main goal of the paper is to discuss different simulation techniques, see how well they work, and look at popular tools in the field.
 The paper talks about three main types of simulation:
+
 1.	Functional Simulation: This checks if the hardware model works correctly but doesn't consider timing. It's useful for early design verification.
 2.	Cycle-Accurate Simulation: This gives detailed timing information by simulating each clock cycle. It's important for performance evaluation and finding problems but uses a lot of resources.
 3.	Hybrid Simulation: This mixes functional and cycle-accurate simulation to balance accuracy and speed, making it good for large-scale simulations where both are important.
@@ -11,16 +12,16 @@ The study looks at several popular simulation tools like SimpleScalar, GEM5, and
 
 ## Critical Analysis
 
-Advantages of Computing Applications:
+## Advantages of Computing Applications:
 1.	Flexibility and Scalability: Tools like GEM5 can be customized to simulate different architectures and scaled up or down as needed.
 2.	Cost-Effectiveness: Simulation is cheaper than making physical prototypes, allowing researchers to test and validate designs without spending a lot of money.
 3.	Detailed Insights: Cycle-accurate simulations provide detailed timing data, which is crucial for optimizing performance and finding issues in designs.
 
-##Potential Limitations:
+## Potential Limitations:
 1.	Resource Intensity: Detailed simulations, especially cycle-accurate ones, need a lot of computing power and memory, which can be a drawback.
 2.	Complexity: Setting up and configuring simulation environments can be complicated and time-consuming, which can be challenging for those with limited experience in using these tools.
 
-##Application
+## Application
 The methods and findings from this paper can be used in course activities involving computer architecture design and analysis. For example, students can use simulation tools like GEM5 to model and evaluate the performance of their processor designs, gaining practical experience. Understanding the pros and cons of different simulation methods will help students make better decisions in their projects.
 
 ## Part 2: Evaluating emulsiV
