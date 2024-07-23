@@ -35,15 +35,15 @@ Advantages:
 2.	Real-Time Visualization: The tool shows simulation results in real-time, allowing users to see changes and interactions as they happen.
 3.	Versatility: emulsiV supports many types of simulations, from basic models to complex interactions, making it suitable for various applications.
 
-Disadvantages:
+## Disadvantages:
 1.	Performance Limitations: While emulsiV is easy to use, it might not perform as well or be as scalable as more specialized tools, especially for large simulations.
 2.	Feature Limitations: The tool might lack some advanced features found in other simulation software, which could limit its use for more complex research.
 
-##Comparison with Traditional Tools
+## Comparison with Traditional Tools
 
 Compared to traditional tools like MATLAB or Simulink, emulsiV is more user-friendly and provides real-time visualization. MATLAB and Simulink offer more features and better performance for detailed simulations but have a steeper learning curve. emulsiV is easier for beginners to use and visualize their simulations quickly.
 
-##Practical Application
+## Practical Application
 
 A project where emulsiV could be useful is developing a smart city traffic management system. The goal would be to simulate and optimize traffic flow to reduce congestion and improve safety. emulsiV would help by providing real-time visualization of traffic patterns, allowing researchers to see the effects of different strategies and make informed adjustments
 
