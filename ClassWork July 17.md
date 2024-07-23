@@ -12,7 +12,7 @@ The study looks at several popular simulation tools like SimpleScalar, GEM5, and
 
 ## Critical Analysis
 
-## Advantages of Computing Applications:
+**Advantages of Computing Applications:**
 1.	Flexibility and Scalability: Tools like GEM5 can be customized to simulate different architectures and scaled up or down as needed.
 2.	Cost-Effectiveness: Simulation is cheaper than making physical prototypes, allowing researchers to test and validate designs without spending a lot of money.
 3.	Detailed Insights: Cycle-accurate simulations provide detailed timing data, which is crucial for optimizing performance and finding issues in designs.
