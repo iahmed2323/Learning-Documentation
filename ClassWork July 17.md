@@ -1,6 +1,6 @@
 # Part 1: Research Paper Exploration
 
-Summary
+**Summary**
 
 The research paper "A Survey of Computer Architecture Simulation Techniques and Tools" gives an overview of the methods and tools used in computer architecture simulation. The main goal of the paper is to discuss different simulation techniques, see how well they work, and look at popular tools in the field.
 The paper talks about three main types of simulation:
