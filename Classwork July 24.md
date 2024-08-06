@@ -5,8 +5,11 @@ Intel's architecture, commonly called x86, includes different levels of processo
 Levels of Intel Architecture: Intel Core i3, i5, i7, and i9:
 
 **Core i3**: These are entry-level processors good for everyday activities like browsing the web, using Microsoft Word, and watching videos. They usually have fewer cores (processing units) and threads (a way for a processor to handle multiple tasks) than the higher-end models.
+
 **Core i5**: A mid-range option that balances cost and performance. Core i5 processors are suitable for gaming, light video editing, and multitasking.
+
 **Core i7**: High-performance processors with more cores and threads, making them great for intensive tasks like gaming, video editing, and creating content.
+
 **Core i9**: The most powerful in this series, Core i9 processors are designed for gamers, content creators, and professionals who need maximum speed and power for demanding tasks like 3D rendering and complex simulations.
 
 **Intel Xeon**
